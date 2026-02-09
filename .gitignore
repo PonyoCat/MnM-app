@@ -1,0 +1,9 @@
+AGENTS.md
+CLAUDE-example.md
+.claude/commands/commands/execute-prp.md
+.claude/commands/commands/generate-prp.md
+.claude/commands/commands/ultimate_validate_command.md
+PRPs/PRPs/templates/prp_base.md
+PRPs/PRPs/EXAMPLE_multi_agent_prp.md
+.claude/mcp.servers.json
+/.claude
